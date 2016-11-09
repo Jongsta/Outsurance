@@ -1,0 +1,5 @@
+C:\OutsuranceDev\Outsurance\CSVApp\FileProcessor\bin\Debug\FileProcessor.dll
+C:\OutsuranceDev\Outsurance\CSVApp\FileProcessor\bin\Debug\FileProcessor.pdb
+C:\OutsuranceDev\Outsurance\CSVApp\FileProcessor\obj\Debug\FileProcessor.csprojResolveAssemblyReference.cache
+C:\OutsuranceDev\Outsurance\CSVApp\FileProcessor\obj\Debug\FileProcessor.dll
+C:\OutsuranceDev\Outsurance\CSVApp\FileProcessor\obj\Debug\FileProcessor.pdb

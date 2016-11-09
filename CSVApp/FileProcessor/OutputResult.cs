@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace FileProcessor
 {
-    public interface IFileProcessor
+    public class OutputResult
     {
-        List<string> FileReader();
-        void ProcessFile();
-
-        void OutPutFile();
+        public string Name { get; set; }
+        public int Count { get; set; }
     }
 }

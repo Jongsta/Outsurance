@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CSVApp/FileProcessor/bin/Debug/FileProcessor.dll
+*.pdb
+*.cache
+*.dll
+/CSVApp/FileProcessor/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/CSVApp/FileProcessor/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/CSVApp/FileProcessor/obj/Debug

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,9 +18,27 @@ namespace FileProcessor
             _outputFileLocation = outputFileLocation;
         }
 
-        public void FileReader()
+        public List<string> FileReader()
         {
-            throw new NotImplementedException();
+            var namesAndSurnames = new List<string>();
+            string currentLine;
+            var count = 0;
+
+            using (var sr = new StreamReader(_inputFileLocation))
+            {
+                while ((currentLine = sr.ReadLine().Trim()) != null)
+                {
+                    if (count > 0) // Skip the first line
+                    {
+                        var line = currentLine.Split(',');
+                        namesAndSurnames.AddRange(line);
+                    }
+
+                    count++;
+                }
+
+                return namesAndSurnames;
+            }
         }
 
         public void OutPutFile()
