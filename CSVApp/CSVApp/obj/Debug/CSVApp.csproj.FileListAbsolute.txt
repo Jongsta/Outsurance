@@ -1,1 +1,6 @@
 C:\OutsuranceDev\Outsurance\CSVApp\CSVApp\bin\Debug\CSVApp.exe.config
+C:\OutsuranceDev\Outsurance\CSVApp\CSVApp\bin\Debug\CSVApp.exe
+C:\OutsuranceDev\Outsurance\CSVApp\CSVApp\bin\Debug\CSVApp.pdb
+C:\OutsuranceDev\Outsurance\CSVApp\CSVApp\obj\Debug\CSVApp.csprojResolveAssemblyReference.cache
+C:\OutsuranceDev\Outsurance\CSVApp\CSVApp\obj\Debug\CSVApp.exe
+C:\OutsuranceDev\Outsurance\CSVApp\CSVApp\obj\Debug\CSVApp.pdb
